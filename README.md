@@ -1,2 +1,2 @@
-# MOdules
-Assortment of handy modules to make life easier
+# Modules
+Assortment of modules to make life easier
