@@ -1,2 +1,2 @@
-# Scripts
-Assortment of handy scripts to make life easier
+# MOdules
+Assortment of handy modules to make life easier
